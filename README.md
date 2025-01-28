@@ -1,6 +1,6 @@
 # Hi, I'm Aashish Mishra 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on **Core Java**, **Spring Boot**, **SQL**, and **Web Development**. I'm currently working on a project in my Organization and improving my skills in responsive web design and JavaScript.
+Welcome to my GitHub profile! I'm a passionate developer with a focus on **Core Java**, **Spring Boot**, **SQL**, and **Web Development**. I'm currently working on a project in my Organization and also improving my skills in Spring Boot, responsive web design and JavaScript.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Spring Boot** , **JavaScript** and focusing on **responsive web design** for personal development.
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on **Core 
 
 
 ## 🌱 My Journey
-     I started my journey as a fresh graduate in **2023** from **Haldia Institute of Technology**, where I earned my degree in **Computer Applications (MCA)**.
+     I started my journey as a fresh graduate in **2021** from **Haldia Institute of Technology**, where I earned my degree in **Computer Applications (MCA)**.
      Since joining **InfiniSync**, I’ve been fortunate to work on exciting projects, improving my skills in Java, Spring Boot, SQL. 
      My curiosity keeps me motivated to keep learning and evolving as a developer.
 
