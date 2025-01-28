@@ -45,6 +45,7 @@ I love learning new things or technologies.
 
 ## 📣 Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-aashish/)
-- [Email](mailto:aashishmishra1880@gmail.com)
+- [Click here to email me](mailto:aashishmishra1880@gmail.com)
+
 
 Feel free to check out my repositories, and let's connect! 👨‍💻
