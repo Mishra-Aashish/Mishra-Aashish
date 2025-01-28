@@ -9,7 +9,7 @@ my skills in Spring Boot, responsive web design, and JavaScript.
 - 🌱 I’m currently learning **Spring Boot** , **JavaScript** and focusing on **responsive web design** for personal development.
 - 👯 I'm working on a project in my organization and improving my skills in **Spring Boot** and **Web Development** for career development.
 - 💬 Ask me about **Core Java**, **Spring Boot**, **SQL**, and **Web Development**.
-- 📫 How to reach me: **[![Email](https://img.shields.io/badge/Email-aashishmishra1880%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aashishmishra1880@gmail.com)**.
+- 📫 How to reach me: **[![Email](https://img.shields.io/badge/Email-Click%20to%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aashishmishra1880@gmail.com)**.
   
 
 ## 🌱 My Journey
@@ -45,6 +45,6 @@ I love learning new things or technologies.
 
 ## 📣 Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-aashish/)
-- [![Email](https://img.shields.io/badge/Email-aashishmishra1880%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aashishmishra1880@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-Click%20to%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aashishmishra1880@gmail.com)
 
 Feel free to check out my repositories, and let's connect! 👨‍💻
