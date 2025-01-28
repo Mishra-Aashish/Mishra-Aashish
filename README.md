@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on **Core 
   ![Aashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mishra-Aashish&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 📣 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/mishra-aashish/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-aashish/)
 - [Email](mailto:aashishmishra1880@gmail.com)
 
 Feel free to check out my repositories, and let's connect! 👨‍💻
