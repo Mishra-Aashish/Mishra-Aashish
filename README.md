@@ -1,18 +1,20 @@
 # Hi, I'm Aashish Mishra 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on **Core Java**, **Spring Boot**, **SQL**, and **Web Development**. I'm currently working on a project in my Organization and also improving my skills in Spring Boot, responsive web design and JavaScript.
+Welcome to my GitHub profile! I'm a passionate developer 
+focusing on **Core Java**, **Spring Boot**, **SQL**, and **Web Development**. 
+I'm working on a project for my organization and improving 
+my skills in Spring Boot, responsive web design, and JavaScript.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Spring Boot** , **JavaScript** and focusing on **responsive web design** for personal development.
 - 👯 I'm working on a project in my organization and improving my skills in **Spring Boot** and **Web Development** for career development.
 - 💬 Ask me about **Core Java**, **Spring Boot**, **SQL**, and **Web Development**.
-- 📫 How to reach me: **[Email](mailto:aashishmishra1880@gmail.com)**.
-- 🎉 Fun fact: I love learning new things or technologies.
-
+- 📫 How to reach me: **[![Email](https://img.shields.io/badge/Email-aashishmishra1880%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aashishmishra1880@gmail.com)**.
+  
 
 ## 🌱 My Journey
      I started my journey as a fresh graduate in **2021** from **Haldia Institute of Technology**, where I earned my degree in **Computer Applications (MCA)**.
-     Since joining **InfiniSync**, I’ve been fortunate to work on exciting projects, improving my skills in Java, Spring Boot, SQL. 
+     Since joining **InfiniSync**, I’ve been fortunate to work on exciting projects, improving my skills in Java, Spring Boot, and SQL. 
      My curiosity keeps me motivated to keep learning and evolving as a developer.
 
 
@@ -38,8 +40,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on **Core 
 ## 📈 GitHub Stats
   ![Aashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mishra-Aashish&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
+## 🎉 Fun Fact
+I love learning new things or technologies.
+
 ## 📣 Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-aashish/)
-- [Email](mailto:aashishmishra1880@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-aashishmishra1880%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aashishmishra1880@gmail.com)
 
 Feel free to check out my repositories, and let's connect! 👨‍💻
