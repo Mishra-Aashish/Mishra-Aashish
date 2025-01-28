@@ -7,6 +7,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on **Core 
 - 👯 I'm working on a project in my organization and improving my skills in **Spring Boot** and **Web Development** for career development.
 - 💬 Ask me about **Core Java**, **Spring Boot**, **SQL**, and **Web Development**.
 - 📫 How to reach me: **[Email](mailto:aashishmishra1880@gmail.com)**.
+- 🎉 Fun fact: I love learning new things or technologies.
+
+
+## 🌱 My Journey
+     I started my journey as a fresh graduate in **2023** from **Haldia Institute of Technology**, where I earned my degree in **Computer Applications (MCA)**.
+     Since joining **InfiniSync**, I’ve been fortunate to work on exciting projects, improving my skills in Java, Spring Boot, SQL. 
+     My curiosity keeps me motivated to keep learning and evolving as a developer.
+
 
 ## 🔧 Technologies & Tools
 
@@ -28,6 +36,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on **Core 
 - ![PgAdmin 4](https://img.shields.io/badge/PgAdmin%204-004B87?style=flat&logo=pgadmin&logoColor=white)
 
 ## 📈 GitHub Stats
-![Aashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mishra-Aashish&show_icons=true&hide_title=true&count_private=true&theme=radical)
+  ![Aashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mishra-Aashish&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## 📣 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/mishra-aashish/)
+- [Email](mailto:aashishmishra1880@gmail.com)
 
 Feel free to check out my repositories, and let's connect! 👨‍💻
